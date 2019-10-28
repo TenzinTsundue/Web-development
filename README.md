@@ -1,6 +1,8 @@
 # FULL STACK, FRONT END, BACK END—WHAT DOES IT ALL MEAN?
 [link to post](https://skillcrush.com/2017/02/27/front-end-back-end-full-stack/)
 
+![image](https://hackernoon.com/hn-images/0*oRIVuWSZQ-io7WUw.png)
+
 ![image](https://a.ilovecoding.org/img/_blogs/full-stack.jpg)
 
 As the Web has grown more complex and as more becomes possible on the Internet, developers have gotten more specialized. That means that web development now means a lot of different things depending on what a web developer specializes in. Here are the three main categories:
