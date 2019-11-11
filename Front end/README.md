@@ -6,7 +6,7 @@
 - Javascript
 - React
 - vanilla javascript
-- gulp
+- gulp: is a cross-platform, streaming task runner that lets developers automate many development tasks.
 
 <br>
  [HTML and CSS 2:40 vido link](https://www.youtube.com/watch?v=8gNrZ4lAnAw)<br>
