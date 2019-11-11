@@ -5,7 +5,7 @@
 - Sass(Syntactically Awesome Style Sheets): is an extension of CSS which provides the features of nested rules, inheritance, Mixins whereas **SCSS**(Sassy Cascaded Style Sheets) which is similar to that of CSS and fills the gaps and incompatibilities between CSS and SASS.
 - Javascript
 - React
-- vanilla javascript
+- vanilla javascript: Using "VanillaJS" means using plain JavaScript without any additional libraries like jQuery.
 - gulp: is a cross-platform, streaming task runner that lets developers automate many development tasks.
 
 <br>
