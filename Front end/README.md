@@ -1,7 +1,7 @@
 ### What need to do:
 - HTML
 - CSS
-- Bootstrap
+- Bootstrap [Link to video](https://www.youtube.com/watch?v=hnCmSXCZEpU)
 - Sass
 - Javascript
 - React
