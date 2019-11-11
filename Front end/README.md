@@ -1,11 +1,12 @@
 ### What need to do:
 - HTML
 - CSS
-- Bootstrap [Link to video](https://www.youtube.com/watch?v=hnCmSXCZEpU)
-- Sass
+- Bootstrap [Link to video](https://www.youtube.com/watch?v=hnCmSXCZEpU) [link to page](https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
+- Sass(Syntactically Awesome Style Sheets): is an extension of CSS which provides the features of nested rules, inheritance, Mixins whereas **SCSS**(Sassy Cascaded Style Sheets) which is similar to that of CSS and fills the gaps and incompatibilities between CSS and SASS.
 - Javascript
 - React
 - vanilla javascript
+- gulp
 
 <br>
  [HTML and CSS 2:40 vido link](https://www.youtube.com/watch?v=8gNrZ4lAnAw)<br>
